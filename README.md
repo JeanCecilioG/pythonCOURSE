@@ -10,7 +10,7 @@ Não estou aprendendo Python do zero. Estou usando o curso como estrutura para *
 
 Python aparece em camadas diferentes do que me interessa: automação, dados, APIs, IA e integração entre sistemas. Este repositório acompanha o processo de consolidar isso de forma sistemática, projeto a projeto.
 
-O foco não é completar o curso. É extrair o que importa de cada bloco temático.
+O foco é extrair o que importa de cada bloco temático.
 
 ---
 
